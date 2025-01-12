@@ -6,7 +6,7 @@ A module for finding the majority element in an array.
 Module contents:
     - majority_element: finds the majority element in an array.
 
-Created on XX XX XX
+Created on 2 Jan 2025
 @author: Aseel
 """
 
