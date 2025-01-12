@@ -5,7 +5,7 @@ A module for counting vowels in a string.
 
 Module contents:
     - count_vowels: counts the number of vowels in a string.
-Created on XX XX XX
+Created on 30 Dec 2024
 @author: Aseel
 """
 
