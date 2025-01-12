@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
 Unit tests for the steps_to_floor_core function, which calculates the number
 of steps required to reach a specified floor.

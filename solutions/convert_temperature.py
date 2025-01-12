@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
 This module provides functionality to convert temperatures from Celsius
 to Fahrenheit and Kelvin.
