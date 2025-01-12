@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+# -- coding: utf-8 --
 class ReverseIntegerError(Exception):
     """Custom exception for reverse integer errors."""
 

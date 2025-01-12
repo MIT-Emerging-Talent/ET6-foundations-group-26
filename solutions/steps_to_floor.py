@@ -4,9 +4,9 @@
 Building Steps Calculator
 
 This module provides functionality to calculate
- the number of steps required to reach a specific floor
-   in a building. It includes a core function
-     for the calculation and a wrapper function for handling user input.
+the number of steps required to reach a specific floor
+in a building. It includes a core function
+for the calculation and a wrapper function for handling user input.
 """
 
 
