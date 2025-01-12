@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
 Unit tests for the majority_element module.
 
@@ -9,6 +11,9 @@ to always exist in the input.
 Examples:
     majority_element([3, 2, 3]) -> 3
     majority_element([2, 2, 1, 1, 1, 2, 2]) -> 2
+
+Created on 2 Jan 2025
+@author: Aseel
 """
 
 import unittest
