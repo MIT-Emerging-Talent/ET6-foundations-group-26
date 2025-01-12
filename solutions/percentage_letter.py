@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
 This module provides function to calculate the percentage of characters
 in a string that match a specified letter,
