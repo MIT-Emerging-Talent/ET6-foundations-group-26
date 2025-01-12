@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
 Unit tests for the count_vowels module.
 
@@ -11,6 +13,9 @@ Examples:
     count_vowels("hello") -> 2
     count_vowels("HELLO") -> 2
     count_vowels(" A e i o u ") -> 5
+
+Created on 30 Dec 2024
+@author: Aseel
 """
 
 import unittest
